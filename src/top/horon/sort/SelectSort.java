@@ -6,8 +6,8 @@ public class SelectSort {
     public static void main(String[] args) {
         System.out.println("选择排序");
         int[] num = new int[7];
-        for (int i = 0;i <= num.length-1;i++){
-            num[i] = i;
+        for (int i = 0;i <= num.length-1;i++){  //给数组赋值
+            num[i] = num.length-i;
         }
         for (int i = 0 ; i < (num.length-1) ;i++){  //外循环
             int swap = i;
