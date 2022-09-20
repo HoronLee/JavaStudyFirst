@@ -9,6 +9,7 @@ public class SelectSort {
         for (int i = 0;i <= num.length-1;i++){  //给数组赋值
             num[i] = num.length-i;
         }
+        System.out.println("排序前的数组为：" + Arrays.toString(num));
         for (int i = 0 ; i < (num.length-1) ;i++){  //外循环
             int swap = i;
             for (int j = i+1; j < num.length; j++) {    //内循环

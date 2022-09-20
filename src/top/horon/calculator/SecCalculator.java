@@ -3,55 +3,49 @@ package top.horon.calculator;
 import java.util.Scanner;
 
 public class SecCalculator {
-    public static void main(String[] args){
-        System.out.println("欢迎使用皓然简易计算器V0.0.1——支持加+ 减- 乘* 除/ ");   //给用户使用提示
-        System.out.println("请输入你想要计算的式子中的第一个数值(请使用整数)，然后Enter");
-        Scanner shuzhi1 = new Scanner(System.in);    //创建键盘扫描器
-        if (shuzhi1.hasNext()){
-            int shu1 = Integer.parseInt(shuzhi1.next());
-            System.out.println("需要计算的第一个数为：" + shu1);
-            //下一步
-            System.out.println("请输入你需要计算的运算符【 + - * / 】然后Enter");
-            Scanner yunsuan = new  Scanner(System.in);
-            if(yunsuan.hasNext()){
-                String yun = yunsuan.next();
-                System.out.println("你输入的运算符为：" + yun);
-                //下一步
-                System.out.println("请输入你想要计算的式子中的第二个数值，然后Enter");
-                Scanner shuzhi2 = new Scanner(System.in);
-                if(shuzhi2.hasNext()){
-                    int shu2 = Integer.parseInt(shuzhi2.next());
-                    System.out.println("需要计算的第二个数为：" + shu2);
-                    System.out.println("===========计算中-请耐心等待==========");
-                    System.out.println("计算结果是：" + calculate(shu1,yun,shu2));
-                    System.out.println("===计算完成！PS：虽然根本不用多少毫秒===");
-                    shuzhi2.close();    //关闭占用资源的扫描器
-                }else {
-                    System.out.println("你似乎还没有键入第二个运算数值呢...");
-                    shuzhi2.close();
-                }
-            }else {
-                System.out.println("你似乎还没有键入任何运算符呢...");
-                yunsuan.close();            //关闭占用资源的扫描器
-            }
-        }else {
-            System.out.println("你似乎还没有键入任何数值呢...");
-        }
-        shuzhi1.close();                             //关闭占用资源的扫描器
-    }
-    public static double calculate(int shu1, String yunsuan, int shu2){
-        switch (yunsuan){
+
+    public static void main(String[] args) {
+        System.out.println("欢迎使用皓然的建议计算器");
+        System.out.println("Version-0.0.2");
+        System.out.println("计算方式为分布输入，请先输入你的算式中的第一个数字→");
+        Scanner scanner = new Scanner(System.in);
+        int num1 = scanner.nextInt();
+        System.out.println("您输入的第一个数字为→" + num1 + ", 现在请输入运算符[ + - * / ]→");
+        String calculator = scanner.next();
+        switch (calculator){
             case "+":
-                return shu1 + shu2;
+                System.out.println("您将要进行加法操作，"+ "现在请输入第二个数字→");
+                break;
             case "-":
-                return shu1 - shu2;
-            case  "*":
-                return (double) shu1 * shu2;
+                System.out.println("您将要进行减法操作，"+ "现在请输入第二个数字→");
+                break;
+            case "*":
+                System.out.println("您将要进行乘法操作，"+ "现在请输入第二个数字→");
+                break;
             case "/":
-                return (double) shu1 / shu2;
+                System.out.println("您将要进行除法操作，"+ ",现在请输入第二个数字→");
+                break;
             default:
-                System.out.println("你输入的是什么运算符暂时不支持哦");
+                System.out.println("抱歉，皓然计算器暂时不支持您输入的运算符哦！");
         }
-        return 0;
+        int num2 = scanner.nextInt();
+        System.out.println("您输入的第二个数字为→" + num2);
+        System.out.println("===计算中===");
+        System.out.println("计算结果为：" + calculate(num1,calculator,num2));
+        System.out.println("==计算结束==");
+    }
+    public static double calculate(int num1,String calculator,int num2){
+        switch (calculator){
+            case "+":
+                return num1 + num2;
+            case "-":
+                return num1 - num2;
+            case "*":
+                return (double)num1 * num2;
+            case "/":
+                return (double)num2 / num2;
+            default:
+                return 0;
+        }
     }
 }
