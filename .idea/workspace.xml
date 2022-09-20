@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68f211e6-7e8f-4835-9bd4-e3a55a9ed3e0" name="变更" comment="选择排序完成">
-      <change afterPath="$PROJECT_DIR$/src/top/horon/calculator/FirCalculator.java" afterDir="false" />
+    <list default="true" id="68f211e6-7e8f-4835-9bd4-e3a55a9ed3e0" name="变更" comment="冒泡排序完成">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top/horon/calculator/FirstCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top/horon/calculator/SecCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/calculator/SecCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/top/horon/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/sort/BubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/top/horon/sort/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/sort/SelectSort.java" afterDir="false" />
     </list>
@@ -85,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663572425116</updated>
       <workItem from="1663572426653" duration="8262000" />
-      <workItem from="1663657335527" duration="1300000" />
+      <workItem from="1663657335527" duration="2083000" />
     </task>
     <task id="LOCAL-00001" summary="第一次">
       <created>1663572996252</created>
@@ -101,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663584041791</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="冒泡排序完成">
+      <created>1663658647254</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663658647254</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -129,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次" />
     <MESSAGE value="选择排序完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="选择排序完成" />
+    <MESSAGE value="冒泡排序完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="冒泡排序完成" />
   </component>
 </project>

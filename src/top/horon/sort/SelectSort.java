@@ -3,7 +3,7 @@ package top.horon.sort;
 import java.util.Arrays;
 
 public class SelectSort {
-    public static void main(String[] args) {
+    public static void main(String[] args) {    //升序
         System.out.println("选择排序");
         int[] num = new int[7];
         for (int i = 0;i <= num.length-1;i++){  //给数组赋值
