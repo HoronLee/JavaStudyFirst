@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68f211e6-7e8f-4835-9bd4-e3a55a9ed3e0" name="变更" comment="冒泡排序算法优化1">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/horon/Array/XiShuarray.java" afterDir="false" />
+    <list default="true" id="68f211e6-7e8f-4835-9bd4-e3a55a9ed3e0" name="变更" comment="稀疏数组完成">
+      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo01/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo01/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo01/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo01/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo01/Demo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo02/AppEnter01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo02/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo02/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo02/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top/horon/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HoronFirstJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HoronFirstJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/Array/XiShuarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/array/XishuArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,16 +49,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "editing.templates"
+    "last_opened_file_path": "/home/horonlee/IdeaProjects/HoronFirstJava/out",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.XiShuarray">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.horon.sort.BubbleSort" />
+  <component name="RunManager" selected="应用程序.AppEnter01">
+    <configuration name="AppEnter01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.horon.oop.demo02.AppEnter01" />
       <module name="HoronFirstJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.horon.sort.*" />
+          <option name="PATTERN" value="top.horon.oop.demo02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.horon.sort.SelectSort" />
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.horon.oop.demo02.Application" />
       <module name="HoronFirstJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.horon.sort.*" />
+          <option name="PATTERN" value="top.horon.oop.demo02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +83,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XiShuarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.horon.Array.XiShuarray" />
+    <configuration name="Demo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.horon.oop.demo01.Demo03" />
       <module name="HoronFirstJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.horon.Array.*" />
+          <option name="PATTERN" value="top.horon.oop.demo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.horon.oop.demo01.Demo04" />
+      <module name="HoronFirstJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.horon.oop.demo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.horon.oop.demo01.Demo05" />
+      <module name="HoronFirstJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.horon.oop.demo01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,9 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.XiShuarray" />
-        <item itemvalue="应用程序.BubbleSort" />
-        <item itemvalue="应用程序.SelectSort" />
+        <item itemvalue="应用程序.AppEnter01" />
+        <item itemvalue="应用程序.Application" />
+        <item itemvalue="应用程序.Demo05" />
+        <item itemvalue="应用程序.Demo04" />
+        <item itemvalue="应用程序.Demo03" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +144,11 @@
       <workItem from="1663657335527" duration="3800000" />
       <workItem from="1663721743377" duration="19000" />
       <workItem from="1663721872055" duration="14000" />
-      <workItem from="1663729888733" duration="6088000" />
+      <workItem from="1663729888733" duration="7070000" />
+      <workItem from="1663818756108" duration="1351000" />
+      <workItem from="1663830205594" duration="523000" />
+      <workItem from="1663830735153" duration="32000" />
+      <workItem from="1663830787047" duration="4990000" />
     </task>
     <task id="LOCAL-00001" summary="第一次">
       <created>1663572996252</created>
@@ -132,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663659456275</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="稀疏数组完成">
+      <created>1663739516197</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663739516197</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -162,6 +215,7 @@
     <MESSAGE value="选择排序完成" />
     <MESSAGE value="冒泡排序完成" />
     <MESSAGE value="冒泡排序算法优化1" />
-    <option name="LAST_COMMIT_MESSAGE" value="冒泡排序算法优化1" />
+    <MESSAGE value="稀疏数组完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="稀疏数组完成" />
   </component>
 </project>

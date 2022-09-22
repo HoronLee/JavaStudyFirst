@@ -1,6 +1,6 @@
-package top.horon.Array;
+package top.horon.array;
 
-public class XiShuarray {
+public class XishuArray {
     public static void main(String[] args) {
         int[][] array1 = new int[11][11];
         array1[1][2] = 1;   //原数组内容
