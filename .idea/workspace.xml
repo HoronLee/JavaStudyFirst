@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68f211e6-7e8f-4835-9bd4-e3a55a9ed3e0" name="变更" comment="多态1">
-      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo4/Teacher.java" afterDir="false" />
+    <list default="true" id="68f211e6-7e8f-4835-9bd4-e3a55a9ed3e0" name="变更" comment="多态1+2">
+      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo05/Application05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo05/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo05/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo05/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo06/Application06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo4/Application04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo4/Application04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo4/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo4/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo4/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo4/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,33 +48,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.Application04">
-    <configuration name="Application02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.horon.oop.demo3.Application02" />
-      <module name="HoronFirstJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top.horon.oop.demo3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Application03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.horon.oop.demo3.Application03" />
-      <module name="HoronFirstJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top.horon.oop.demo3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.Test">
     <configuration name="Application04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="top.horon.oop.demo4.Application04" />
       <module name="HoronFirstJava" />
@@ -100,12 +75,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.horon.oop.demo3.Student" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.horon.oop.demo05.Person" />
       <module name="HoronFirstJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.horon.oop.demo3.*" />
+          <option name="PATTERN" value="top.horon.oop.demo05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.horon.oop.demo05.Test" />
+      <module name="HoronFirstJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.horon.oop.demo05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="top.horon.oop.demo05.Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.horon.oop.demo05.Student" />
+      <module name="HoronFirstJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.horon.oop.demo05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Test" />
+        <item itemvalue="应用程序.Person" />
+        <item itemvalue="应用程序.top.horon.oop.demo05.Student" />
         <item itemvalue="应用程序.Application04" />
         <item itemvalue="应用程序.BubbleSort" />
-        <item itemvalue="应用程序.Application03" />
-        <item itemvalue="应用程序.Application02" />
-        <item itemvalue="应用程序.Student" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +151,8 @@
       <workItem from="1664112487738" duration="49000" />
       <workItem from="1664177681804" duration="1363000" />
       <workItem from="1664185310917" duration="8039000" />
-      <workItem from="1664353867680" duration="4983000" />
+      <workItem from="1664353867680" duration="9942000" />
+      <workItem from="1664454162486" duration="3945000" />
     </task>
     <task id="LOCAL-00001" summary="第一次">
       <created>1663572996252</created>
@@ -215,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664355549184</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="多态1+2">
+      <created>1664361380995</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664361380995</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,6 +262,7 @@
     <MESSAGE value="面向对象编程概述1" />
     <MESSAGE value="面向对象实践+继承+重写完成" />
     <MESSAGE value="多态1" />
-    <option name="LAST_COMMIT_MESSAGE" value="多态1" />
+    <MESSAGE value="多态1+2" />
+    <option name="LAST_COMMIT_MESSAGE" value="多态1+2" />
   </component>
 </project>
