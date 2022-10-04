@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68f211e6-7e8f-4835-9bd4-e3a55a9ed3e0" name="变更" comment="多态1+2">
-      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo05/Application05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo05/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo05/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo05/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo06/Application06.java" afterDir="false" />
+    <list default="true" id="68f211e6-7e8f-4835-9bd4-e3a55a9ed3e0" name="变更" comment="static and final get！">
+      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo06/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/horon/oop/demo06/Action.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo06/Application06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo06/Application06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +150,8 @@
       <workItem from="1664177681804" duration="1363000" />
       <workItem from="1664185310917" duration="8039000" />
       <workItem from="1664353867680" duration="9942000" />
-      <workItem from="1664454162486" duration="3945000" />
+      <workItem from="1664454162486" duration="3983000" />
+      <workItem from="1664861920580" duration="1836000" />
     </task>
     <task id="LOCAL-00001" summary="第一次">
       <created>1663572996252</created>
@@ -224,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664361380995</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="static and final get！">
+      <created>1664461001661</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1664461001661</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,6 +269,7 @@
     <MESSAGE value="面向对象实践+继承+重写完成" />
     <MESSAGE value="多态1" />
     <MESSAGE value="多态1+2" />
-    <option name="LAST_COMMIT_MESSAGE" value="多态1+2" />
+    <MESSAGE value="static and final get！" />
+    <option name="LAST_COMMIT_MESSAGE" value="static and final get！" />
   </component>
 </project>
