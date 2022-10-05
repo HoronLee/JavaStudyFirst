@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68f211e6-7e8f-4835-9bd4-e3a55a9ed3e0" name="变更" comment="GUI编程学习开始">
-      <change afterPath="$PROJECT_DIR$/src/top/horon/gui/readme.md" afterDir="false" />
+    <list default="true" id="68f211e6-7e8f-4835-9bd4-e3a55a9ed3e0" name="变更" comment="Java第一阶段学习结束">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +21,7 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="GUI" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,10 +43,11 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/home/horonlee/IdeaProjects/HoronFirstJava",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "项目",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editing.templates"
+    "settings.editor.selected.configurable": "configurable.group.editor"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -165,7 +165,7 @@
       <workItem from="1664959994805" duration="100000" />
       <workItem from="1664960099971" duration="1419000" />
       <workItem from="1664961940059" duration="61000" />
-      <workItem from="1664973790670" duration="939000" />
+      <workItem from="1664973790670" duration="1622000" />
     </task>
     <task id="LOCAL-00001" summary="第一次">
       <created>1663572996252</created>
@@ -272,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664974725066</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Java第一阶段学习结束">
+      <created>1664974834018</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1664974834018</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,6 +323,7 @@
     <MESSAGE value="自定义异常" />
     <MESSAGE value="基础部分完结" />
     <MESSAGE value="GUI编程学习开始" />
-    <option name="LAST_COMMIT_MESSAGE" value="GUI编程学习开始" />
+    <MESSAGE value="Java第一阶段学习结束" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java第一阶段学习结束" />
   </component>
 </project>
