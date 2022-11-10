@@ -2,7 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68f211e6-7e8f-4835-9bd4-e3a55a9ed3e0" name="变更" comment="Java第一阶段学习结束">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HoronFirstJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HoronFirstJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/array/XishuArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/array/XishuArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/calculator/FirCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/calculator/FirCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/calculator/SecCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/calculator/SecCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/exception/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/exception/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/exception/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/exception/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/exception/demo01/Myexception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/exception/demo01/Myexception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/exception/demo01/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/exception/demo01/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo01/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo01/Demo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo01/Demo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo01/Demo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo01/Demo03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo01/Demo03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo01/Demo04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo01/Demo04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo01/Demo05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo01/Demo05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo01/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo01/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo02/AppEnter01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo02/AppEnter01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo02/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo02/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo02/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo02/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo02/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo02/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo05/Application05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo05/Application05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo05/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo05/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo05/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo05/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo05/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo05/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo06/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo06/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo06/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo06/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo06/Application06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo06/Application06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo07/TimeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo07/TimeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo07/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo07/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo07/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo07/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo07/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo07/note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo08/Application08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo08/Application08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo08/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo08/Outer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo08/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo08/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo3/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo3/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo3/Application02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo3/Application02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo3/Application03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo3/Application03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo3/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo3/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo3/Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo3/Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo3/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo3/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo3/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo3/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo4/Application04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo4/Application04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo4/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo4/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo4/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo4/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/oop/demo4/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/oop/demo4/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/search/BisectionSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/search/BisectionSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/sort/BucketSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/sort/BucketSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/sort/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/sort/InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/horon/sort/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/horon/sort/SelectSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,33 +92,33 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/horonlee/IdeaProjects/HoronFirstJava",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "项目",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/CodeStudy/Java/HoronFirstJava&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "module"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager" selected="应用程序.top.horon.exception.demo01.Test">
-    <configuration name="Application08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.horon.oop.demo08.Application08" />
+}</component>
+  <component name="RunManager" selected="应用程序.CustomMpTable">
+    <configuration name="CustomMpTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.horon.javaclub.CustomMpTable" />
       <module name="HoronFirstJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.horon.oop.demo08.*" />
+          <option name="PATTERN" value="top.horon.javaclub.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.horon.oop.demo05.Test" />
+    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.horon.javaclub.Demo01" />
       <module name="HoronFirstJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.horon.oop.demo05.*" />
+          <option name="PATTERN" value="top.horon.javaclub.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.horon.exception.Test2" />
+    <configuration name="FirCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.horon.calculator.FirCalculator" />
       <module name="HoronFirstJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.horon.exception.*" />
+          <option name="PATTERN" value="top.horon.calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="top.horon.exception.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.horon.exception.Test" />
+    <configuration name="SecCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.horon.calculator.SecCalculator" />
       <module name="HoronFirstJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.horon.exception.*" />
+          <option name="PATTERN" value="top.horon.calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="top.horon.exception.demo01.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.horon.exception.demo01.Test" />
+    <configuration name="XishuArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.horon.array.XishuArray" />
       <module name="HoronFirstJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.horon.exception.demo01.*" />
+          <option name="PATTERN" value="top.horon.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.top.horon.exception.demo01.Test" />
-        <item itemvalue="应用程序.top.horon.exception.Test" />
-        <item itemvalue="应用程序.Test2" />
-        <item itemvalue="应用程序.Application08" />
-        <item itemvalue="应用程序.Test" />
+        <item itemvalue="应用程序.CustomMpTable" />
+        <item itemvalue="应用程序.Demo01" />
+        <item itemvalue="应用程序.XishuArray" />
+        <item itemvalue="应用程序.FirCalculator" />
+        <item itemvalue="应用程序.SecCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +221,18 @@
       <workItem from="1664959994805" duration="100000" />
       <workItem from="1664960099971" duration="1419000" />
       <workItem from="1664961940059" duration="61000" />
-      <workItem from="1664973790670" duration="1622000" />
+      <workItem from="1664973790670" duration="1650000" />
+      <workItem from="1665321462746" duration="116000" />
+      <workItem from="1665455325255" duration="606000" />
+      <workItem from="1666070392850" duration="218000" />
+      <workItem from="1666183643320" duration="21000" />
+      <workItem from="1666968866336" duration="974000" />
+      <workItem from="1667024462919" duration="20000" />
+      <workItem from="1667371006891" duration="28000" />
+      <workItem from="1667478374619" duration="409000" />
+      <workItem from="1667977455812" duration="51000" />
+      <workItem from="1668080740987" duration="846000" />
+      <workItem from="1668083428294" duration="2493000" />
     </task>
     <task id="LOCAL-00001" summary="第一次">
       <created>1663572996252</created>
@@ -279,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664974834018</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Java第一阶段学习结束">
+      <created>1664975414683</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1664975414683</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
